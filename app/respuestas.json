@@ -1,0 +1,50 @@
+[
+  {
+    "pregunta": "¿Cómo reinicio mi contraseña?",
+    "respuesta": "Para reiniciar tu contraseña, haz clic en '¿Olvidaste tu contraseña?' en la pantalla de inicio de sesión y sigue las instrucciones."
+  },
+  {
+    "pregunta": "No puedo acceder al sistema",
+    "respuesta": "Por favor, asegúrate de estar conectado a internet. Si el problema persiste, intenta reiniciar tu equipo y volver a intentar."
+  },
+  {
+    "pregunta": "¿Cómo solicito soporte técnico?",
+    "respuesta": "Puedes solicitar soporte enviando un correo a soporte@empresa.com o usando el botón de ayuda en la plataforma."
+  },
+  {
+    "pregunta": "¿Por qué no cargan las páginas?",
+    "respuesta": "A veces el sistema puede estar en mantenimiento. Intenta actualizar la página o consultar con soporte si el problema persiste."
+  },
+  {
+    "pregunta": "¿Qué hacer si mi equipo está lento?",
+    "respuesta": "Cierra aplicaciones que no estés usando, reinicia el equipo e intenta nuevamente. Si continúa lento, contacta a soporte."
+  },
+  {
+    "pregunta": "¿Dónde están los manuales de usuario?",
+    "respuesta": "Puedes encontrar los manuales en la sección de 'Documentación' dentro de la plataforma principal."
+  },
+  {
+    "pregunta": "¿Cómo cambio mis datos personales?",
+    "respuesta": "Dirígete a tu perfil de usuario y haz clic en 'Editar información'."
+  },
+  {
+    "pregunta": "¿Qué navegador debo usar?",
+    "respuesta": "Recomendamos utilizar Google Chrome o Firefox para una mejor compatibilidad."
+  },
+  {
+    "pregunta": "¿Hay horarios para soporte?",
+    "respuesta": "Sí. Nuestro horario de atención es de lunes a viernes de 8 a.m. a 6 p.m."
+  },
+  {
+    "pregunta": "No me llegan los correos de notificación",
+    "respuesta": "Revisa tu carpeta de spam o correo no deseado. Si no están allí, contacta al área de soporte para verificar tu correo registrado."
+  },
+  {
+    "pregunta": "¿Qué hago si olvidé mi usuario?",
+    "respuesta": "Comunícate con soporte para validar tu identidad y recuperar tu usuario."
+  },
+  {
+    "pregunta": "¿Cómo activo el modo oscuro?",
+    "respuesta": "Ve a 'Configuración' y selecciona la opción 'Tema oscuro'."
+  }
+]
