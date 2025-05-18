@@ -5,12 +5,10 @@ __pycache__/
 # Entorno virtual
 venv/
 env/
+.venv/
 
 # Base de datos local
 *.db
-
-# Archivo de configuración sensible
-.env
 
 # VS Code
 .vscode/
