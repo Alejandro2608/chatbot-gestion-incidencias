@@ -1,5 +1,6 @@
 from pydantic import BaseModel, EmailStr
 
+
 # Para crear un nuevo usuario
 class UserCreate(BaseModel):
     email: EmailStr
@@ -14,3 +15,8 @@ class UserOut(BaseModel):
 
     class Config:
         orm_mode = True
+
+class UserLogin(BaseModel):
+    email: EmailStr
+    password: str
+
